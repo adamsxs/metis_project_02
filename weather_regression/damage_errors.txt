@@ -12,3 +12,5 @@ Years w/ errors:
 1988
 2001
 2003
+
+Manually corrected data in 'cost_data_patched.csv'
